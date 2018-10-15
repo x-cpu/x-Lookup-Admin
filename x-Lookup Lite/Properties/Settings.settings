@@ -1,0 +1,70 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="x_Lookup_Lite.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DVAConnectionStringFP" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=atl-va-sql-1a\p920;Initial Catalog=DVA;User ID=dva;Password=Happy_Trails&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=atl-va-sql-1a\p920;Initial Catalog=DVA;User ID=dva;Password=Happy_Trails</Value>
+    </Setting>
+    <Setting Name="DVAConnectionStringMTV" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=mtv-va-sql-1\p922;Initial Catalog=DVA;User ID=dva;Password=Happy_Trails&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=mtv-va-sql-1\p922;Initial Catalog=DVA;User ID=dva;Password=Happy_Trails</Value>
+    </Setting>
+    <Setting Name="TurboscanNG_OCR1ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=mtv-va-sql-1\p922;Initial Catalog=TurboscanNG_OCR1;User ID=dva;Password=Happy_Trails&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=mtv-va-sql-1\p922;Initial Catalog=TurboscanNG_OCR1;User ID=dva;Password=Happy_Trails</Value>
+    </Setting>
+    <Setting Name="TurboscanNG_OCR2ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=mtv-va-sql-1\p922;Initial Catalog=TurboscanNG_OCR2;User ID=dva;Password=Happy_Trails&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=mtv-va-sql-1\p922;Initial Catalog=TurboscanNG_OCR2;User ID=dva;Password=Happy_Trails</Value>
+    </Setting>
+    <Setting Name="TurboscanNG_OCR3ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=mtv-va-sql-1\p922;Initial Catalog=TurboscanNG_OCR3;User ID=dva;Password=Happy_Trails&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=mtv-va-sql-1\p922;Initial Catalog=TurboscanNG_OCR3;User ID=dva;Password=Happy_Trails</Value>
+    </Setting>
+    <Setting Name="TurboscanNG_OCR4ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=mtv-va-sql-1\p922;Initial Catalog=TurboscanNG_OCR4;User ID=dva;Password=Happy_Trails&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=mtv-va-sql-1\p922;Initial Catalog=TurboscanNG_OCR4;User ID=dva;Password=Happy_Trails</Value>
+    </Setting>
+    <Setting Name="TurboscanNG_ATL_VA_0005ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=atl-va-sql-2a\p921;Initial Catalog=TurboscanNG_ATL-VA-0005;User ID=ibml;Password=ibml123&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=atl-va-sql-2a\p921;Initial Catalog=TurboscanNG_ATL-VA-0005;User ID=ibml;Password=ibml123</Value>
+    </Setting>
+    <Setting Name="TURBOSCANNG1ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=mtv-va-sql-4\p1;Initial Catalog=TURBOSCANNG1;User ID=lrmo;Password=Happy_Trails&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=mtv-va-sql-4\p1;Initial Catalog=TURBOSCANNG1;User ID=lrmo;Password=Happy_Trails</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
