@@ -981,7 +981,6 @@ namespace x_Lookup_Lite
                 {
                     dataGridView6.Rows[9].Cells[1].Style.BackColor = ColorTranslator.FromHtml("#113446");
 
-
                 }
 
                 if (varGlob.couplerMTVRMC >= 20)
